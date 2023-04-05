@@ -15,10 +15,10 @@
 
 #' Title
 #'
-#' @return
+#' @return a string
 #' @export
 #'
-#' @examples
+#' @examples hello
 hello <- function() {
   print("Hello, world!")
 }
@@ -46,6 +46,9 @@ str_split_one <- function(string, pattern, n = Inf) {
     character()
   }
 }
+
+
+
 
 
 

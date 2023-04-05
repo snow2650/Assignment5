@@ -6,6 +6,12 @@
 \usage{
 hello()
 }
+\value{
+a string
+}
 \description{
 Title
+}
+\examples{
+hello
 }
